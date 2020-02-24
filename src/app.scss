@@ -1,5 +1,12 @@
 body{
     text-align: center;
+    background-image: url('https://i.pinimg.com/originals/ef/e4/91/efe4911c1514bd6da486c87cab240f60.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    background-size: cover;
+
+
 
 }
 h3{
@@ -8,14 +15,16 @@ h3{
 }
 Header {
     margin-top: 50px;
-    color: black;
+    color: white;
     text-align: center;
+    font-size: 40px;
   }
 
  Footer{
-    margin-top: 50px;
-    color: black;
+    margin-top: 200px;
+    color: white;
     text-align: center; 
+    font-size: 30px;
  }
 
   #one {
