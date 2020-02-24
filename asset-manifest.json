@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Saja-401-advanced-javascript/class-27/static/css/main.dd92a45b.chunk.css",
+    "main.js": "/Saja-401-advanced-javascript/class-27/static/js/main.3b02e054.chunk.js",
+    "main.js.map": "/Saja-401-advanced-javascript/class-27/static/js/main.3b02e054.chunk.js.map",
+    "runtime-main.js": "/Saja-401-advanced-javascript/class-27/static/js/runtime-main.23a60608.js",
+    "runtime-main.js.map": "/Saja-401-advanced-javascript/class-27/static/js/runtime-main.23a60608.js.map",
+    "static/js/2.ef6a328c.chunk.js": "/Saja-401-advanced-javascript/class-27/static/js/2.ef6a328c.chunk.js",
+    "static/js/2.ef6a328c.chunk.js.map": "/Saja-401-advanced-javascript/class-27/static/js/2.ef6a328c.chunk.js.map",
+    "index.html": "/Saja-401-advanced-javascript/class-27/index.html",
+    "precache-manifest.56d681866e0abeea3feb14351aa8aeff.js": "/Saja-401-advanced-javascript/class-27/precache-manifest.56d681866e0abeea3feb14351aa8aeff.js",
+    "service-worker.js": "/Saja-401-advanced-javascript/class-27/service-worker.js",
+    "static/css/main.dd92a45b.chunk.css.map": "/Saja-401-advanced-javascript/class-27/static/css/main.dd92a45b.chunk.css.map",
+    "static/js/2.ef6a328c.chunk.js.LICENSE.txt": "/Saja-401-advanced-javascript/class-27/static/js/2.ef6a328c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23a60608.js",
+    "static/js/2.ef6a328c.chunk.js",
+    "static/css/main.dd92a45b.chunk.css",
+    "static/js/main.3b02e054.chunk.js"
+  ]
+}
