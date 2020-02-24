@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing our Counter component Assert that state is being transferred to the DOM 1`] = `
+<section>
+  <h3
+    style={
+      Object {
+        "color": "green",
+      }
+    }
+  >
+    0
+  </h3>
+  <button
+    id="one"
+    onClick={[Function]}
+  >
+    click to increase counter
+  </button>
+  <button
+    id="two"
+    onClick={[Function]}
+  >
+    click to decrease counter
+  </button>
+</section>
+`;
+
+exports[`Testing our Counter component render correctly to the DOM 1`] = `
+<section>
+  <h3
+    style={
+      Object {
+        "color": "green",
+      }
+    }
+  >
+    0
+  </h3>
+  <button
+    id="one"
+    onClick={[Function]}
+  >
+    click to increase counter
+  </button>
+  <button
+    id="two"
+    onClick={[Function]}
+  >
+    click to decrease counter
+  </button>
+</section>
+`;
