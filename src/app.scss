@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+
+}
+h3{
+    margin-right: 50px;
+  
+}
+Header {
+    margin-top: 50px;
+    color: black;
+    text-align: center;
+  }
+
+ Footer{
+    margin-top: 50px;
+    color: black;
+    text-align: center; 
+ }
+
+  #one {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    margin-right: 50px;
+
+  }
+
+  #one:hover {
+      background-color: yellow;
+      color: green
+ }
+
+ #two {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    margin-right: 50px;
+
+  }
+
+  #two:hover {
+      background-color: yellow;
+      color: green
+ }
